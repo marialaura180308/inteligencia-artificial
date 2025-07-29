@@ -10,7 +10,8 @@ export const perguntas = [
                 ],
                 proxima: 1,
             },
-            {
+            {const botaoIniciar = document.querySelector(".iniciar-btn");
+const telaInicial = document.querySelector(".tela-inicial");
                 texto: "Isso é maravilhoso!",
                 afirmacao: [
                     "Quis saber como usar IA no seu dia a dia.",
